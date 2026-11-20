@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20[YOUR%20NAME]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20[YOUR%20SPECIALTY]&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20ingryd&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20[YOUR%20SPECIALTY]&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+actually+work;[YOUR+PHRASE+1];[YOUR+PHRASE+2];Turning+data+into+intelligent+decisions" alt="Typing SVG" />
@@ -19,12 +19,12 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍-[CITY%2C%20COUNTRY]-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-Brazil-7C3AED?style=for-the-badge)
 ![Status](https://img.shields.io/badge/💼-[OPEN%20TO%20OPPORTUNITIES%20/%20EMPLOYED%20AT%20COMPANY]-0EA5E9?style=for-the-badge)
 ![Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=7C3AED&style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.ingryd@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]([PORTFOLIO-URL])
 [![Medium](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)]([BLOG-URL])
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/[YOUR-KAGGLE-USERNAME])
