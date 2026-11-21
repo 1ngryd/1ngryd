@@ -42,7 +42,7 @@ class AIEngineer:
         self.role = "[YOUR CURRENT ROLE, e.g., ML Engineer at Company X]"
         self.education = "[YOUR EDUCATION, e.g., Computer Science – University Y]"
         self.location = "[CITY, STATE, COUNTRY]"
-        self.languages = ["Portuguese (native)", "[ENGLISH – LEVEL]", "[OTHER LANGUAGE]"]
+        self.languages = ["Portuguese (native)", "English (fluent)", "Spanish (intermediate)"]
         self.current_focus = ["[e.g., LLMs and RAG]", "[e.g., MLOps]", "[e.g., Computer Vision]"]
         self.curiosity = "[SOMETHING YOU ARE EXPLORING/LEARNING RIGHT NOW]"
 
