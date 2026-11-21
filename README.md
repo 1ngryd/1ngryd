@@ -168,7 +168,7 @@ If you want to exchange ideas about **AI, data, tech careers**, or collaborate o
 
 <div align="center">
 
-📫 **hello.ingryd@gmail.com** &nbsp;•&nbsp; 💼 **https://www.linkedin.com/in/ingrydlara/** &nbsp;•&nbsp;
+📫 **hello.ingryd@gmail.com** 
 
 *"AI is the new electricity." — Andrew Ng*
 
