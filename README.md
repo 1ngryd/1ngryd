@@ -39,15 +39,15 @@
 class AIEngineer:
     def __init__(self):
         self.name = "Ingryd"
-        self.role = "[YOUR CURRENT ROLE, e.g., ML Engineer at Company X]"
-        self.education = "[YOUR EDUCATION, e.g., Computer Science – University Y]"
-        self.location = "[CITY, STATE, COUNTRY]"
+        self.role = "ML Engineer at Company X"
+        self.education = "Computer Science - University Y"
+        self.location = "Brasília, DF, Brazil"
         self.languages = ["Portuguese (native)", "English (fluent)", "Spanish (intermediate)"]
-        self.current_focus = ["[e.g., LLMs and RAG]", "[e.g., MLOps]", "[e.g., Computer Vision]"]
-        self.curiosity = "[SOMETHING YOU ARE EXPLORING/LEARNING RIGHT NOW]"
+        self.current_focus = ["LLMs and RAG", "MLOps", "Computer Vision"]
+        self.curiosity = "Exploring AI agents and multi-agent systems"
 
     def mission(self):
-        return "[YOUR MISSION IN ONE SENTENCE, e.g., Using AI to drive real impact in healthcare and education]"
+        return "Using AI to drive real impact in healthcare and education"
 ```
 
 - 🔭 Currently working on **[CURRENT PROJECT OR TOPIC]**
