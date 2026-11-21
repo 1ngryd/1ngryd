@@ -2,7 +2,7 @@
 
 <img 
 
-<img src="./banner.svg" width="100%" />
+src="./banner.svg" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+actually+work;[YOUR+PHRASE+1];[YOUR+PHRASE+2];Turning+data+into+intelligent+decisions" alt="Typing SVG" />
