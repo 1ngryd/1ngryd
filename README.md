@@ -128,8 +128,10 @@ TODAY   ──★  [WHERE YOU ARE AND WHERE YOU'RE HEADED]
 
 ## 🏆 Certifications & Achievements
 
-- 🎓 **[CERTIFICATION NAME]** — [INSTITUTION], [YEAR]
-- 🎓 **[CERTIFICATION NAME]** — [INSTITUTION], [YEAR]
+- 🎓 **Machine Learning Specialization / CS229** — Stanford University, 2026
+- 🎓 **CS50's Introduction to AI with Python** — Harvard University, 2026
+- 🎓 **Introduction to Deep Learning (6.S191)** — MIT, 2026
+- 🎓 **Elements of AI** — University of Helsinki, 2026
 - 🥇 **[AWARD / HACKATHON / COMPETITION]** — [PLACEMENT], [YEAR]
 - 📄 **[PUBLICATION / PAPER]** — [VENUE], [YEAR] · [LINK]
 - 🎤 **[TALK / EVENT]** — [EVENT NAME], [YEAR]
