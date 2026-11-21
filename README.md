@@ -1,14 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-  HOW TO USE
-  1. Create a PUBLIC repository with the SAME name as your
-     GitHub username (e.g., github.com/jane-doe/jane-doe)
-  2. Paste this content into that repository's README.md
-  3. Search for [BRACKETS] and YOUR-USERNAME and replace everything
-  4. Delete any blocks you don't want to use
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20ingryd&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20[YOUR%20SPECIALTY]&descSize=18&descAlignY=58" width="100%" />
