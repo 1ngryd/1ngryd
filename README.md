@@ -170,7 +170,7 @@ If you want to exchange ideas about **AI, data, tech careers**, or collaborate o
 
 📫 **hello.ingryd@gmail.com** &nbsp;•&nbsp; 💼 **https://www.linkedin.com/in/ingrydlara/** &nbsp;•&nbsp;
 
-*"[YOUR FAVORITE QUOTE OR PROFESSIONAL MOTTO]"*
+*"AI is the new electricity." — Andrew Ng*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
