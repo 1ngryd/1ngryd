@@ -161,6 +161,6 @@ If you want to exchange ideas about **AI, data, tech careers**, or collaborate o
 
 *"AI is the new electricity." — Andrew Ng*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="./footer.svg" width="100%" /> width="100%" />
 
 </div>
