@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20ingryd&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20•%20[YOUR%20SPECIALTY]&descSize=18&descAlignY=58" width="100%" />
+<img <img src="./banner.svg" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+actually+work;[YOUR+PHRASE+1];[YOUR+PHRASE+2];Turning+data+into+intelligent+decisions" alt="Typing SVG" />
