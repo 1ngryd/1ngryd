@@ -11,7 +11,7 @@
 ![Location](https://img.shields.io/badge/📍-Brazil-7C3AED?style=for-the-badge)
 ![Views](https://komarev.com/ghpvc/?username=1ngryd&label=Profile%20views&color=7C3AED&style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1ngryd/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.ingryd@gmail.com)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://1ngryd.substack.com)
 
